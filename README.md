@@ -249,8 +249,12 @@ Municipal government website with responsive design and Bitrix CMS integration
 ### 🛡️ Система мониторинга киберфизических угроз
 Real-time threat monitoring system with WebSocket integration and data visualization
 
+### 🛡️ Умная лаборатория
+Real-time threat monitoring system with WebSocket and camera integration and data visualization
+
 ### ✅ Todo List
 Hackathon-winning task management application with student schedule integration
+
 ## Professional Experience
 Currently working on university web resources and partner projects, responsible for:
 
